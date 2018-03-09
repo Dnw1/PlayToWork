@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7a9b83553938c174f848848a1a115e96
+timeCreated: 1518682156
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Hollywood Hills Extended
+  fontNames:
+  - SF Hollywood Hills Extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78b7503fde9b2434ab3cb5974953b0df, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

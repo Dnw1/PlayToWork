@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c4fc99d8ebd54b440a4cae1c662b2833
+timeCreated: 1518682156
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Hollywood Hills Condensed
+  fontNames:
+  - SF Hollywood Hills Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a399ad3373dbd7a48bfbdd7d8440577c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
